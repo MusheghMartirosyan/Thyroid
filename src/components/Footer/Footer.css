@@ -1,0 +1,49 @@
+.footer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: #F2ECE9;
+    padding:20px 100px;
+    margin-top: 50px;
+    gap: 50px;
+}
+.footer h3{
+    color: #626262;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #D6CBC6;;
+}
+
+.footer li{
+    color: #626262;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.footer .contact span{
+    color: #626262;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.socials{
+    margin-top: 50px;
+}
+
+.footer .contact h3{
+    margin-bottom: 50px;
+}
+
+.footer-reserved{
+    background-color: #F69CA0;
+    width: 100%;
+    padding: 20px 150px;
+    color: #fff;
+}

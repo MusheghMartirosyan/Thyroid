@@ -1,0 +1,19 @@
+.blog-item.card{
+    /* width: 490px !important; */
+    /* padding: 100px 50px; */
+    color: #fff;
+    background: linear-gradient(rgba(246, 156, 160, 0.70), rgba(246, 156, 160, 0.70)), url(../../images/Blog-item-img.png) no-repeat;
+    border-radius: 0%;
+    border: none;    
+}
+
+.blog-item .card-header{
+    background: none;
+    border: none;
+    text-decoration: underline;
+}
+
+.blog-item span{
+    float: right;
+    cursor: pointer  ;
+}

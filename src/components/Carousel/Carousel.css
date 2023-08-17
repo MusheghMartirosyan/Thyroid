@@ -1,0 +1,53 @@
+.carousel .carousel-img{
+    width: 100%;
+    height: 600px;
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(../../images/carousel-1.png) no-repeat;
+
+}
+
+.carousel-caption {
+    width: 900px;
+    position: absolute;
+    top: 100px;
+    left: 0;
+    padding: 20px;
+}
+
+.carousel-caption h3{
+    color: #FFF;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 55px;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+.carousel-caption p{
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.carousel-caption h3,
+.carousel-caption p,
+.carousel-caption button {
+    text-align: left;
+    margin: 0;
+}
+
+.carousel-caption button {
+    float: left;
+    margin-top: 20px;
+    background-color: #F69CA0;
+    border: none;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+}

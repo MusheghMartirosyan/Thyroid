@@ -1,0 +1,32 @@
+.banner{
+    height: 610px;
+    width: 100%;
+    background: linear-gradient(rgba(246, 156, 160, 0.70), rgba(246, 156, 160, 0.70)), url(../../images/banner-img.png) no-repeat;
+    color: #fff;
+    padding: 100px 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner h2{
+    width: 850px;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 55px;
+    text-transform: uppercase;
+}
+.banner p{
+    width: 850px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.banner button{
+    float: right;
+    border: 3px solid #FFF;
+    background: #F69CA0;
+    color: #FFF;
+}
