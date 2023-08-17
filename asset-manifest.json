@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Thyroid/static/css/main.cab917ee.css",
+    "main.js": "/Thyroid/static/js/main.6904e1d3.js",
+    "static/media/banner-img.png": "/Thyroid/static/media/banner-img.0a5842be17d953e5b75f.png",
+    "static/media/carousel-1.png": "/Thyroid/static/media/carousel-1.ada0183ddd137566faf9.png",
+    "static/media/Blog-item-img.png": "/Thyroid/static/media/Blog-item-img.5fda67fa44d8b8983dbd.png",
+    "static/media/product-image1.png": "/Thyroid/static/media/product-image1.3ef19718f117dc160b23.png",
+    "static/media/product-image2.png": "/Thyroid/static/media/product-image2.2f18f2df268cb31bd7fb.png",
+    "index.html": "/Thyroid/index.html",
+    "main.cab917ee.css.map": "/Thyroid/static/css/main.cab917ee.css.map",
+    "main.6904e1d3.js.map": "/Thyroid/static/js/main.6904e1d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cab917ee.css",
+    "static/js/main.6904e1d3.js"
+  ]
+}
