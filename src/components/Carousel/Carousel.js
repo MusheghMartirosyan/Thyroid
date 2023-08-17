@@ -1,5 +1,4 @@
 import Carousel from 'react-bootstrap/Carousel';
-import CarouselImg from "../../images/carousel-1.png"
 import "./Carousel.css"
 
 function ThyroidCarousel() {
