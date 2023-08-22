@@ -58,3 +58,10 @@
     line-height: 28px;
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 768px) {
+    .product{
+        display: flex;
+        flex-direction: column;
+    }
+}

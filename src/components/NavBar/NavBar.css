@@ -35,3 +35,39 @@
 .navbar button:hover{
     color: #FFF;
 }
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+  .navbar{
+    text-align: center;
+  }
+  .navbar-toggler.collapsed{
+    position: absolute;
+    top: -80px;
+    right: 20px;
+  }
+
+  .navbar-toggler{
+    position: absolute;
+    top: -80px;
+    right: 20px;
+  }
+    .navbar{
+      padding: 20px !important;
+    }
+    .nav-items .nav-link{
+      border: none;
+
+    }
+  
+    .nav-link {
+      border: none;
+      border-bottom: 1px solid #f0f0f0;
+      padding: 15px 0;
+    }
+  
+    .nav-button {
+      margin-left: 0;
+      margin-top: 20px;
+    }
+  }

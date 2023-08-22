@@ -13,3 +13,10 @@
     transform: scale(1.1);
     cursor: pointer;
 }
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+    .socials{
+        display: none;
+    }
+}
