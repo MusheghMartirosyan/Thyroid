@@ -65,4 +65,8 @@
         flex-direction: column;
         padding: 0;
     }
+    .product-image img {
+        width: 150px;
+        height: auto;
+    }
 }
